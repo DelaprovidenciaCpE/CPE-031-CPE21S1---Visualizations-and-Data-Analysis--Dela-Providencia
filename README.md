@@ -3,3 +3,6 @@
 ## Student Information
 - **Name:** Dela Providencia, Dane Matthew F.
 - **Section:** CPE21S1
+- **Program:** Computer Engineering
+- Course: Visualization and Data Analysis
+- 
