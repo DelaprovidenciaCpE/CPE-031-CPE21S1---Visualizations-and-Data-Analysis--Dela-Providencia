@@ -1,9 +1,9 @@
-<img width="1920" height="1080" alt="Black Futuristic Animated Programmer Presentation" src="https://github.com/user-attachments/assets/22168791-a866-45b9-89a9-2cb1caf9d8b1" />
+<img width="1920" height="1080" alt="Black Futuristic Animated Programmer Presentation (1)" src="https://github.com/user-attachments/assets/73ec4ffc-120f-45af-8ddb-7ffcae09495a" />
 
 
 <div align="center">
 
-**STUDENT INFORMATION**
+**STUDENT INFORMATION:**
 
 ### Dane Matthew F. Dela Providencia
 
