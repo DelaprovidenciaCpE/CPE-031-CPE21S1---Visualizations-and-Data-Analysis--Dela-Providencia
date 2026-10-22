@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="![Uploading Black Electric Blue and Neon Green Futuristic Algorithms Technology Presentation.png…]()
-" src="https://github.com/user-attachments/assets/73ec4ffc-120f-45af-8ddb-7ffcae09495a" />
+<img width="1920" height="1080" alt="Black Futuristic Animated Programmer Presentation (1)" src="https://github.com/user-attachments/assets/73ec4ffc-120f-45af-8ddb-7ffcae09495a" />
 
 
 <div align="center">
